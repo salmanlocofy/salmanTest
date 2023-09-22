@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/salmanTest/static/css/main.f9292d7a.css",
+    "main.js": "/salmanTest/static/js/main.3cb7a086.js",
+    "static/js/787.e67e0a2f.chunk.js": "/salmanTest/static/js/787.e67e0a2f.chunk.js",
+    "static/media/form-section@3x.png": "/salmanTest/static/media/form-section@3x.68084df41940f7142dd6.png",
+    "index.html": "/salmanTest/index.html",
+    "main.f9292d7a.css.map": "/salmanTest/static/css/main.f9292d7a.css.map",
+    "main.3cb7a086.js.map": "/salmanTest/static/js/main.3cb7a086.js.map",
+    "787.e67e0a2f.chunk.js.map": "/salmanTest/static/js/787.e67e0a2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9292d7a.css",
+    "static/js/main.3cb7a086.js"
+  ]
+}
