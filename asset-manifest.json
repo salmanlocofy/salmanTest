@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/salmanTest/static/css/main.f9292d7a.css",
-    "main.js": "/salmanTest/static/js/main.3cb7a086.js",
-    "static/js/787.e67e0a2f.chunk.js": "/salmanTest/static/js/787.e67e0a2f.chunk.js",
-    "static/media/form-section@3x.png": "/salmanTest/static/media/form-section@3x.68084df41940f7142dd6.png",
+    "main.css": "/salmanTest/static/css/main.735ef609.css",
+    "main.js": "/salmanTest/static/js/main.ad216f25.js",
+    "static/js/787.a5ae6eec.chunk.js": "/salmanTest/static/js/787.a5ae6eec.chunk.js",
+    "static/media/search-section@3x.png": "/salmanTest/static/media/search-section@3x.571b8ce2f9e0f2b2ec36.png",
+    "static/media/search-container@3x.png": "/salmanTest/static/media/search-container@3x.c5694f7c2a3953f647d2.png",
+    "static/media/banner@3x.png": "/salmanTest/static/media/banner@3x.d63492c8350db92dd17d.png",
+    "static/media/pariscard@3x.png": "/salmanTest/static/media/pariscard@3x.20217011efa1a4dc2362.png",
+    "static/media/norwaycard@3x.png": "/salmanTest/static/media/norwaycard@3x.0d5ab5a45c3f983189e7.png",
+    "static/media/greececard@3x.png": "/salmanTest/static/media/greececard@3x.6fd285e42bf2ece0f3e9.png",
+    "static/media/tuscanycard@3x.png": "/salmanTest/static/media/tuscanycard@3x.99df802738b95be919d4.png",
+    "static/media/newsletter-form-section@3x.png": "/salmanTest/static/media/newsletter-form-section@3x.0dcfdcc2edc6b1395fd5.png",
+    "static/media/subscribe-section@3x.png": "/salmanTest/static/media/subscribe-section@3x.883582444234efb8a0e3.png",
+    "static/media/newsletter-form-section1@3x.png": "/salmanTest/static/media/newsletter-form-section1@3x.cadf4970d6cb6d8f6144.png",
     "index.html": "/salmanTest/index.html",
-    "main.f9292d7a.css.map": "/salmanTest/static/css/main.f9292d7a.css.map",
-    "main.3cb7a086.js.map": "/salmanTest/static/js/main.3cb7a086.js.map",
-    "787.e67e0a2f.chunk.js.map": "/salmanTest/static/js/787.e67e0a2f.chunk.js.map"
+    "main.735ef609.css.map": "/salmanTest/static/css/main.735ef609.css.map",
+    "main.ad216f25.js.map": "/salmanTest/static/js/main.ad216f25.js.map",
+    "787.a5ae6eec.chunk.js.map": "/salmanTest/static/js/787.a5ae6eec.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9292d7a.css",
-    "static/js/main.3cb7a086.js"
+    "static/css/main.735ef609.css",
+    "static/js/main.ad216f25.js"
   ]
 }
